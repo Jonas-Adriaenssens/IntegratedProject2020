@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1058263747835",
+    "firebase_url": "https://integratedmobilepossie.firebaseio.com",
+    "project_id": "integratedmobilepossie",
+    "storage_bucket": "integratedmobilepossie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058263747835:android:1da9f36474a12334cc345e",
+        "android_client_info": {
+          "package_name": "be.volders.integratedproject2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058263747835-qs8ok00u1d11hl32dp9ffrrm8ct5ep2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmeBP9CyajCldaVcDMzwBaC0deKMFH23U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058263747835-qs8ok00u1d11hl32dp9ffrrm8ct5ep2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

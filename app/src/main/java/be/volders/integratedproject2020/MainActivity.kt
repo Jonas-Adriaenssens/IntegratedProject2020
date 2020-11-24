@@ -9,11 +9,16 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.fragment_login)
 
-        btnSignature.setOnClickListener {
+
+
+
+
+
+     /*   btnSignature.setOnClickListener {
             intent = Intent(this, SignatureActivity::class.java)
             startActivity(intent)
-        }
+        }*/
     }
 }
