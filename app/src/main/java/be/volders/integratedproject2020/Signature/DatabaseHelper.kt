@@ -87,6 +87,7 @@ class DatabaseHelpe(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME,
         onCreate(db)
     }
 
+    //Deze functie dient enkel voor het aanmaken van studenten (bij inlezen van csv)
     fun addStudent(student: Student): Long{
         val db = this.writableDatabase
         val values = ContentValues().apply {
