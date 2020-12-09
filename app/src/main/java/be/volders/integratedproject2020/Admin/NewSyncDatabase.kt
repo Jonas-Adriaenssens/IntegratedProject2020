@@ -26,6 +26,8 @@ class NewSyncDatabase(context: Context) {
 
 
 
+    //test push
+
     private class LocationUsingDate(
             var addressId: Int,
             var lat: Double,
